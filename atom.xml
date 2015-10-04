@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://marathonwriting.github.io/"/>
-  <updated>2015-10-04T06:53:04.793Z</updated>
+  <updated>2015-10-04T08:14:15.643Z</updated>
   <id>http://marathonwriting.github.io/</id>
   
   <author>
@@ -15,29 +15,527 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://marathonwriting.github.io/2015/10/02/hello-world/"/>
-    <id>http://marathonwriting.github.io/2015/10/02/hello-world/</id>
-    <published>2015-10-02T12:54:23.000Z</published>
-    <updated>2015-10-04T06:53:04.793Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://blog.zhangruipeng.me/hexo-theme-icarus/gallery/little-girl.jpg" alt=""><br>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<a id="more"></a></p>
-<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <title><![CDATA[【写作马拉松】起今知行：体验与收获]]></title>
+    <link href="http://marathonwriting.github.io/2015/10/04/0007/"/>
+    <id>http://marathonwriting.github.io/2015/10/04/0007/</id>
+    <published>2015-10-04T12:54:52.000Z</published>
+    <updated>2015-10-04T08:14:15.643Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>本文系10月1日写作马拉松后的总结，通过语音写作的方式表达出来。关于写作马拉松的数据可以看这里：<a href="http://weibo.com/p/10080830a994ef783d6ac37bd2713be67611f7?k=%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE&amp;from=501&amp;_from_=huati_topic" target="_blank" rel="external">#写作马拉松#</a></p>
+</blockquote>
+<p>　　昨天是国庆，一群人采用了一种与过往不一样的方式庆祝了这个节日：<strong>写作马拉松</strong>。考验了专注写作的能力、思维能力、耐力。像这样一种有趣的事情，我自然不会错过，所以没有犹豫就体验了一下。原计划是挑战半程马拉松，因为担心完成不了全程。但是到下午3点的时候，半程马拉松已经挑战完毕，而后面自己列的框架有没有写完，所以选择了继续挑战，到晚上8点的时候，全程马拉松挑战完成。这是昨天的一个基本概况。关于写作的内容更多的是一些过往、现状还有对未来的点滴思考。也可以说从各个方面把自己的经历和收获做了一个梳理。这是一件很简单的事情，当然，我不是指写作马拉松简单，而是我选择了一种更简单的方式来挑战写作马拉松。日后再次挑战的话，会考虑写一些其他方面的内容。因为回忆过去或者从自身上找出一些问题和优势还是相对来说比较容易的。但是如果写一些其他方面的内容，比如说对于近期学习内容的一个梳理和总结，或是针对于某一个主题的想法，这些则对我而言相对较难。</p>
+<p>　　挑战完成之后，不管写的内容是什么，在这个过程中还是有了很多的体验与感悟。说一说自己的成就，可能更多的体现在字数的突破。首先是总的字数突破，其次是语音写作的耐力和写作量也相应的有了新进展。在之前的话，自己每天会安排半个小时到一个小时的时间完成3000以上的字数挑战，这样的习惯坚持了80多天，收获颇多。当然，昨天有一点不好的地方就是，前期使用键盘并不效率，或者说非常缓慢，导致使用快7个小时的时间才完成了半程马拉松，但是之后，一听到剑飞的指点之后，把语音写作结合了起来，速度就快了很多，用5小时的时间写下了3万字。这其中有将近两个半小时的时间写下了14000字，这是一个很大的突破。</p>
+<p>　　这些突破实际意义上可能不是那么特别，只不过是尝试了一些自己原来没有做过的事情，好比自己之前没有体验过写作马拉松一样。之前看到有很多小伙伴们的一个写作框架，基本围绕这两个维度来展开。一个是时间维度，也就是说，过去现在以及未来3个维度，针对过去可能更多的是回忆一些美好的事情，找寻可能已经忘记的记忆。对于现在，更多的是给予理性的认识和思考，而关于未来可能是一种美好的憧憬。另外一个维度就是领域维度，除了学习成长方面的想法，还有诸如工作事业家庭生活等方面的思考。其实这两个维度基本就囊括了个人的全部了。昨天在写的时候我考虑到这个问题，是放在晨间日记那一部分的，关于晨间日记又有了新的认识。以前可能自己没有太过在意这个地方，现在的话，自己可能考虑到也是这两个维度。也就是说，利用晨间日记来搜集自己大脑中潜在的一些想法，而这些想法我们平时可能意识不到。如果长时间的坚持晨间日记写作的话，那么有可能，我们会找出某一类想法中的共同点，这样我们就可以对自己有一个更为清晰的认识。之前看到过有人在知乎上问关于自己目标的一个事情，然后底下有评论告诉他，<strong>你的目标别人不可能知道，只有你自己。</strong>也就是说，想要找到答案的话，那么只有问你自己才能得到你想要的一个答案。所以更多的时候，我们要去找到一些问题的解决方案时候，只要从自身去找到问题，然后找到一种解决方案。因为<strong>很多时候方法并不会来自别的地方或者他人的一些看法，更重要的是来自于自己的一个思考和认识。</strong>晨间日记恰好是这样一个很好的方式，帮你梳理过去，认清现在，最后有关于梦想和微梦想这方面，是基于未来的考虑。比如说，一旦你有什么小的想法，或者想要做的事情你都可以记录在晨间日记里，隔一段时间之后整理一下，记录下来那些你想做的事情，放到目标里面，等到时机成熟的时候去实现它，兑现自己给自己的承诺。这是有关于写作内容的一点看法。此外，除了这个方面之外，我会回忆起自己已经做过的事情或者过去的一些经历。利用这次的机会进行梳理一番，梳理完了之后以现在的视角去思考过去的那一个事情，看看自己哪些地方做得好的，哪些地方做得不够好，来帮助自己改进。从这个纬度来说，也是我们做回顾的事情。最重要的是，你要从自身去考虑，找到自己的优势，发现自己的问题，并找到解决该问题的方法。</p>
+<p>　　有关于写作本身的一个体验，也有了一些收获，下面列举一下：</p>
+<ul>
+<li><strong>写作的过程须专注；</strong>所谓专注指的是要排除一些干扰，尽管最近的7天是一个放假的时间，但还是很难避免一些外在因素的干扰，因为写作马拉松要耗费将近一整天的时间来完成这样一种挑战。在这一整天里，我们很难享受到没有干扰的环境。甚至于昨天在看到小伙伴们写作的时候，她还是边工作边写作的，这让我非常的敬佩！因为对于我来说，可能没有那么多的干扰。我用不着工作，或者说什么也不用做，只要专注于写作就行了，这方面不存在太大的问题。但是对于那些既要工作或者因为有一些其他事情的小伙伴儿，抗除干扰其实还是非常重要的。我自己就深有体会，工作之后你很难想有一个宝贵的完全属于自己的整块的时间，更多的时候是因为各种各样的事情被打断，这是让多数人都不愉快的事情。所以找一个安静的环境比较重要。</li>
+<li><strong>休息的时间不能太长；</strong>我们可以专注地做一件事情，但是人的大脑注意力是有限的，即便是排除了外界的一些干扰，我们很难做到长时间地保持专注。长期的写作对大脑的考验非常大。在写作的过程中，我们要时不时的停下来休息。我看到有小伙伴们采用番茄工作法的方式，提高了工作效率，她采用的是40+10的一个模式，这样的模式非常好，可以保证写作的一个节奏问题。在写作的40分钟内完全专注，然后静静的休息10分钟，这可以让自己不至于太过劳累。我的一个体验就是，这个休息的时间不能长，5到10分钟最好，因为如果时间太长的话，那么我们的思路就断了，可能我们专注地去写作的时候，写着写着就灵感就出来了。但是如果写累了的话，那么就要被迫停下来休息，而如果休息时间过长，我们上一段儿的思绪也可能就断了，一旦思路断了，很难再次连续起来，或者说至少要10分钟左右的时间才能连续起来，这就大大降低了写作的一个效率。写作马拉松耗时很长，可能需要耗费一整天的时间（当然那些写作特别快的也就例外了，昨天还有小伙伴一直写到凌晨的，对于这样的精神，我感觉到十分的敬佩），如果不重视效率问题，那么有可能难以完成挑战，会让自己产生挫败感。其实如果稍稍在一些地方注意一下的话，完成写作马拉松还是很有希望的。这些细节的地方，比如说工具的使用，或者调整好自己的一个写作节奏等。</li>
+<li><strong>这非常烧脑；</strong>写作本来是要耗费体能和大脑的，因为思考的强度非常大，有些可能也不经过思考，大脑想到什么就会把它写下来，但这好像也是一个思考的过程。一整天如果都保持这样一种思考的强度的话，对于大脑的耐力确实提出了很高的要求，思维的专注力也是。之前我是没有这样的经历，就说一整天都在写作这样的经历是完全没有的，基本感受不到。写一整天会给自己大脑造成多大的负荷，完全没有这样的感觉。但是有了这一次体验之后，明显就感觉到确实是一件相当烧脑的事情。写完之后大约50分钟大脑感觉还没有完全恢复过来，就是处于一种热的状态，很难用言语去表述清楚。当然也有可能和我写作的时长有关系，因为在最后一段的时候，我采用的是语音写作的方式，而写作的时长延长到了2小时16分钟，写下了14000字的样子。这么长时间对着手机说话的话，确实是一件非常耗费体能脑力的事情。尽管自己坚持了80多天语音写作，但只不过那些只是短时间的，最长时间也不过是两个小时，两个小时是原来的一个时间段，实际上是刚开始写的时候，花了两个小时的时间才写下了3000字，那时候的密度不会像这次这么大，这次是每个小时保持7000字左右的一个速度，对个人的考验还是非常大的。</li>
+<li><strong>写完之后会有成就感；</strong>昨天看到一位小伙伴们说这样的一句话，“完成了这样一次挑战之后，即便这个国庆没有做其他的事情那么也不会怪罪自己了。”其实就是这样一种心理。我一开始的时候选择挑战半程马拉松，因为觉得自己不可能完成全程马拉松。可以想象一下，当自己把一件自己觉得不可能的事情做到了之后，这样的成就感也就自然出现了。可能有不少人的价值观里头有成就感这样一个关键词。问题是成就感来自哪里呢？来自于别人的评吗？不！我完全不这么认为！搁在之前我会有这样的认识，但是后来我认真思考成就感这个问题之后，发现所谓的成就感，并不会来自别的地方，更多的是自己做成了某件事情的成就给自己所带来的成就感。我在今年给自己创造了很多的成就感，比如说打字速度的提升，比如说跑步距离和时长的一个突破，比如说写了一些质量还可以的文章，比如说自己学会了某一种方法帮助自己解决了某一个问题等等。当你去做成这些即便是看似很小的事情之后，这种成就感也就随之而来。</li>
+</ul>
+<p>　　当然在这个过程中我也暴露了不少问题。除了接下来需要提高键盘写作的效率外，典型的一个问题就是一开始并没有利用自己的优势来做这样的一件事情。为什么这么说呢？我这次选择的挑战是语音写作结合键盘写作的方式来完成这样一种挑战，因为剑飞提到，光用语音写作可能很容易失败。而我之前也没有语音写作长时间写大量文字这样的一个经历，更多的时候是短时间内写少量的字数。这次的挑战我在一开始选择了更多的依靠键盘，因为自己觉得打字速度还勉强过得去，不至于会很严重的降低自己写作的一个速度，中午在写完了半程马拉松之后，给剑飞反馈了一下写作的结果，但是剑飞惊叹我的龟速。囧囧。然后当我看到别的小伙伴们所耗费的时间之后，确实发现自己耗费的时间比别人要长很多。所以到了下午的时候，我采取了另外一种方式，也就是使用用我擅长的语音写作来继续完成这样一种挑战，速度就明显提升了很多。从最终的数据结果来看，同样5小时左右的时间，但是语音写作的速度大概是键盘写作的3倍，这是之前自己没有意识到的一个问题。之前自己只是知道语音写作要比键盘写作效率很多。但昨天写作的时候显然忽略了这样一种优势，没有把自己的优势发挥出来，直到下午完成下半部分挑战的时候才意识到。所以这种经历也告诫自己，<strong>一定要发挥自己的长处，做擅长的事情来帮助自己达成目标。</strong></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="http://blog.zhangruipeng.me/hexo-theme-icarus/gallery/little-girl.jpg" alt=""><br>Welcome to <a href="http://hexo.io/">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.]]>
+    <![CDATA[<blockquote>
+<p>本文系10月1日写作马拉松后的总结，通过语音写作的方式表达出来。关于写作马拉松的数据可以看这里：<a href="http://weibo.com/p/10080830a994ef783d6ac37bd2713be67611f7?k=%E5%86%]]>
+    </summary>
     
+      <category term="体验" scheme="http://marathonwriting.github.io/tags/%E4%BD%93%E9%AA%8C/"/>
+    
+      <category term="写作马拉松" scheme="http://marathonwriting.github.io/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+    
+      <category term="感受" scheme="http://marathonwriting.github.io/tags/%E6%84%9F%E5%8F%97/"/>
+    
+      <category term="收获" scheme="http://marathonwriting.github.io/tags/%E6%94%B6%E8%8E%B7/"/>
+    
+      <category term="写作马拉松体验" scheme="http://marathonwriting.github.io/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BD%93%E9%AA%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[【写作马拉松】文紫：脚没跑，手写过]]></title>
+    <link href="http://marathonwriting.github.io/2015/10/04/0006/"/>
+    <id>http://marathonwriting.github.io/2015/10/04/0006/</id>
+    <published>2015-10-04T12:54:42.000Z</published>
+    <updated>2015-10-04T08:14:27.029Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<ol>
+<li><strong>活动介绍：</strong><ul>
+<li><a href="http://www.jianshu.com/p/c003c5d1c8ac" target="_blank" rel="external">《2015年国庆写作马拉松》</a></li>
+<li><a href="http://www.jianshu.com/p/ce23676a177c" target="_blank" rel="external">挑战2015年国庆写作马拉松</a></li>
+<li><a href="http://www.jianshu.com/p/f8fd5d1a9d80" target="_blank" rel="external">写作马拉松：写作指引</a></li>
+</ul>
+</li>
+<li><p><strong>活动播报</strong></p>
+<ul>
+<li><a href="http://www.jianshu.com/p/74c480e17a0e" target="_blank" rel="external">Day1：10人成功挑战写作马拉松，4人完成全程</a></li>
+<li><a href="http://www.jianshu.com/p/7803bebbbffa" target="_blank" rel="external">Day2：4人成功挑战写作马拉松</a></li>
+</ul>
+</li>
+<li><p><strong>感悟分享：</strong></p>
+<ul>
+<li><a href="http://www.jianshu.com/p/f88c983995b7" target="_blank" rel="external">笑娘：这辈子没在一天内说过那么多话</a></li>
+<li><a href="http://mp.weixin.qq.com/s?__biz=MzIxODA3MjQ2Mg==&amp;mid=208766399&amp;idx=1&amp;sn=3b07cff0b35c4a32ce87cb4182d3a6a8&amp;scene=2&amp;srcid=1002WjEUw4eWdipJ7KQmRG59&amp;from=timeline&amp;isappinstalled=0#rd" target="_blank" rel="external">科研少帅：记一次我参加的特殊马拉松运动</a>**</li>
+<li><a href="http://qjzhixing.com/2015/10/02/" target="_blank" rel="external">起今知行：写作马拉松，部分内容分享</a>]</li>
+</ul>
+</li>
+</ol>
+</blockquote>
+<p>原文链接： <a href="http://mp.weixin.qq.com/s?__biz=MzAxNTAwNjg4Mg==&amp;mid=209594715&amp;idx=1&amp;sn=2b9b70b5a17adc6e18babfb218b39596&amp;scene=1&amp;srcid=1003JogubPoIMtjm4TVWpPBq#rd" target="_blank" rel="external">文紫静好：【写作马拉松】脚没跑，手写过</a><br><strong>作者：文紫静好</strong></p>
+<h2 id="一、念念不忘，必有回响"><strong>一、念念不忘，必有回响</strong></h2><p>　　这些年总是接触到马拉松这个词，心中一直有一个马拉松梦。国庆期间，小城有个小马拉松比赛，想报名，被伙伴制止了。不被支持是一件很不开心的事情，可事后发现这是一种理智。</p>
+<p>　　我从2月开始走和慢跑，都是室内慢跑，最高记录是7公里， 便觉得再多些坚持，跑个10公里也是可以的。实际上，室内和室外跑步有着巨大的差别，迈开大步伐和小碎步前进，两者消耗能量的差别是巨大的。当从室内到室外时，我发现连续不断，最多也只能跑2~3公里，10公里是遥远的梦。</p>
+<p>　　脚下的马拉松，终有一天会去完成，只是时候未到而已。手里的马拉松至少有过尝试，毕竟文字书写我练习了十几年，而跑步不过几个月而已。完成一次手里的马拉松，实现一次对自我的细致认知。</p>
+<h2 id="二、_顺其自然，水到渠成"><strong>二、 顺其自然，水到渠成</strong></h2><p>　　9月28日看见@何晓蕾 转发由@剑飞在思考 发起的“2015年国庆写作马拉松”。加了@剑飞 的微信，通过并被邀请进入已有29人在的写作马拉松群，我非常荣幸的成为第30位加入者。</p>
+<p>　　9月29日白天@剑飞 在群里发了报名挑战链接，分半程（1天至少写21098字）、全程（1天至少写42195字），我没有任何想法的选了全程。可随着报名内容向下填，涉及的所有问题，我都没法给予准确的回答。</p>
+<p>　　“此前的写作经历中，一天最多写了多少字？”真抱歉，我从没有统计的习惯，此前无论是字数，还是时间都没有统计。以后有同样的问题我就可以答“2015年10月1日，42195字，耗时约11小时24分钟”，准确的数字，想想就开心。</p>
+<p>　　“是否有足够的信心挑战成功？挑战宣言是什么？对写作马拉松有什么看法、建议、期待？”很遗憾，在进入之前，我都没有任何想法，只是简单的想去做这件事。我太习惯做了之后再去谈论它们，而做之前我实在不知道该谈些什么，我不习惯谈论自己没有经验的事情。</p>
+<p>　　我选择在10月1日进行挑战，心理想着尽快完成便是，越往后拖越需要惦记。报名后，我便不再想这件事。</p>
+<p>　　9月29日晚上群友@萧队长 分享了他的写作主题。在此之前，我大约就觉得随意写就好，看着他的主题，想着别人这么重视，那也列一个吧。花1小时写了1000多字的主题框架，结果晚上估计脑子里开始兴奋的运转，整个晚上各种做梦。</p>
+<p>　　9月30日我还在思考主题框架是不是足够丰富，晚上惦记着10月1日要早起进行“写作马拉松”，结果看电视剧《未生》，看得兴奋，一直看到1点左右。</p>
+<h2 id="三、慢心态，慢动作"><strong>三、慢心态，慢动作</strong></h2><p>　　10月1日当然没能在预想的6点多起床写作，赖床到8点多才爬起来。</p>
+<p>　　上午8:34开始书写，看见伙伴们已经有各种战绩汇报，我倒也不心急，反正也觉得肯定能完成的。杯具的是上午领导值班，工作突然加入；同时天气太好了，觉得应该把床单被单洗了，顺便也做做其他家务活，最终就是一个上午最多不超过2.5小时在进行书写，完成1万多字。</p>
+<p>　　下午同样拖拖拉拉，直到14:00之后才开启第2个万字写作。这一次开始进入状态，这1万字反而是敲打最快的，仅耗时2小时7分钟，也出现了历史最高速度95字/分。</p>
+<p>　　傍晚到20点，第3个万字，耗时2小时47分钟，比前面多了40分钟，心理开始出现一些多自己的不爽。谁知道原来这已经不错了，因为后面的更无奈。</p>
+<p>　　20点之后开启，第4个万字，预估能够在22:30完成。结果苍天啊，这最后的万字居然写了4个小时，全程结束时已经凌晨0点多。在11点多时，还剩下将近4千字，想着最迟0点前也能完成，结果敲打的速度实在没法赶上。</p>
+<p>　　我估计是10月1日挑战者里最晚完成的一个，耗时11小时24分钟，全程采用普通键盘敲打。</p>
+<h2 id="四、时间的积累，思绪的乱穿"><strong>四、时间的积累，思绪的乱穿</strong></h2><p>　　11个小时的长时间持续写书，这是我人生第一次做这件事。在这11小时里，我直面了很多糟糕的自己，精神分散、拖延症严重、随意书写的自我怀疑等等。</p>
+<p>　　在白天的书写里，我总是写写停停，精神极度分散，没几分钟就摸摸手机、刷刷微信微博，觉得这是再正常不过的事情。上午已经有伙伴汇报完成半程写作马拉松，下午也有伙伴陆陆续续完成。我心里依旧极其淡定地觉得自己白天没完成那是再正常不过的，我的精力得到晚上才能集中。</p>
+<p>　　在开始书写之前，我为写作罗列了25个大主题。开始敲打，第一部分作为习惯引入说明，没有启动写作框架。第二部分开始启动主题写作，可写到5千多字时，我就彻底抛弃主题写作了，我发现自己不愿意做回忆者。主题里有许多需要回忆的内容，回忆成为我极其痛苦的书写过程。不是我的回忆有太多的苦痛，而是我的本性更习惯向前看，而不是向后望。这个发现让我果断放弃主题写作。</p>
+<p>　　开始想到哪里写到哪里的过程。边想边写，写的过程也插入主题写作的内容，彻底进入想什么就写什么的节奏。一开始也写得轻松，写得高兴， 可随着写的内容越来越多，思绪越来越散，所写越来越随意，焦虑的心情开始出现，对所写内容的意义也开始质疑。可因为这是一个需要字数的写作过程，手与脑在激励的斗争，手没有停止的敲打，脑袋里不断说服自己：不要在乎那么多，不要在乎内容，只要把字数完成就好。慢慢地脑袋不再叫嚣，它妥协了，我只需要完成字数的敲打就好。尽管哪怕已经完成挑战，我依旧质疑这个过程的意义在哪里？</p>
+<p>　　在开启写作马拉松之前，@剑飞 一再强调不要回顾、不要修改，只需不断向下写。遵行他的建议，至今（10月3日晚上）都没有去看自己写过什么。写了什么真的不重要，它们只是在那个时间点里出现的那些文字，如果它们要被拿出来，必然需要经过修改、整理，而经过修改和整理的它们将与原本不同。<br>　　这次写作马拉松好处在于：这些书写是私密的，只需要写，无需跟谁交代，自己到底写了什么都无所谓。人生本来就有很多属于自己的秘密，谁也说不得。</p>
+<h2 id="五、自己，终归是自己"><strong>五、自己，终归是自己</strong></h2><p>　　本该做到。我以极其平稳的心态面对这次挑战，没有告诉任何人我一定会做到，可我自己非常清楚的知道自己一定会做到。这次挑战，也许并没有让我突破什么，只是让我再次面对不够好的自己。也在于我总习惯地认为：做到什么都是应该的，没做到只是之前做的不够好，无所谓突破之说。那些不够好，我都知道，只是不愿意面对，哪怕面对我觉得存在也没关系，可实际上是有关系的。 在这次长时间的自我对话里，我感知很多修正的必要。</p>
+<p>　　比与不比。参与这次写作马拉松挑战本质就是一场攀比，尽管我并不喜欢任何形式的比，我不喜欢自己不如别人。为了不输，干脆就不比，原谅我是如此的懦弱。当我进入一场比赛，就会有一种一定不能输的心态，总希望做到最好，当然往往也只能做到不是最差。这便也是，我对大家的速度并不在乎的原因，可我对自己最终的耗时和过程的打字速度却很是不满。</p>
+<p>　　遇见，便握手。偶遇”写作马拉松”，而后跟上，便有了新的欢喜。昨天（10月2日）在朋友圈发了一条记录，大狗熊/Bear Talk说：这个牛！我开心啊，被偶像表扬能不开心么？很多时候，我对很多事都没有太强烈的得失心，总觉得尽力就好，结果随意。</p>
+<p>　　感谢，总归遇见。感谢@剑飞 的活动，尽我所能的参加，不够好，但总也是一次挑战、一次经历，值得欢喜。平淡太多，加些调味剂也不错。O(∩_∩)O谢谢。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<blockquote>
+<ol>
+<li><strong>活动介绍：</strong><ul>
+<li><a href="http://www.jianshu.com/p/c003c5d1c8ac" target="_blank" rel="external">《2015年国庆]]>
+    </summary>
+    
+      <category term="体验" scheme="http://marathonwriting.github.io/tags/%E4%BD%93%E9%AA%8C/"/>
+    
+      <category term="写作马拉松" scheme="http://marathonwriting.github.io/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+    
+      <category term="感受" scheme="http://marathonwriting.github.io/tags/%E6%84%9F%E5%8F%97/"/>
+    
+      <category term="收获" scheme="http://marathonwriting.github.io/tags/%E6%94%B6%E8%8E%B7/"/>
+    
+      <category term="写作马拉松体验" scheme="http://marathonwriting.github.io/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BD%93%E9%AA%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[【写作马拉松】笑娘：这辈子没在一天内说过那么多话]]></title>
+    <link href="http://marathonwriting.github.io/2015/10/04/0005/"/>
+    <id>http://marathonwriting.github.io/2015/10/04/0005/</id>
+    <published>2015-10-04T12:54:36.000Z</published>
+    <updated>2015-10-04T08:14:36.212Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<ol>
+<li><strong>活动介绍：</strong><ul>
+<li><a href="http://www.jianshu.com/p/c003c5d1c8ac" target="_blank" rel="external">《2015年国庆写作马拉松》</a></li>
+<li><a href="http://www.jianshu.com/p/ce23676a177c" target="_blank" rel="external">挑战2015年国庆写作马拉松</a></li>
+<li><a href="http://www.jianshu.com/p/f8fd5d1a9d80" target="_blank" rel="external">写作马拉松：写作指引</a></li>
+</ul>
+</li>
+<li><p><strong>活动播报</strong></p>
+<ul>
+<li><a href="http://www.jianshu.com/p/74c480e17a0e" target="_blank" rel="external">Day1：10人成功挑战写作马拉松，4人完成全程</a></li>
+<li><a href="http://www.jianshu.com/p/7803bebbbffa" target="_blank" rel="external">Day2：4人成功挑战写作马拉松</a></li>
+</ul>
+</li>
+<li><p><strong>感悟分享：</strong></p>
+<ul>
+<li><a href="http://www.jianshu.com/p/f88c983995b7" target="_blank" rel="external">笑娘：这辈子没在一天内说过那么多话</a></li>
+<li><a href="http://mp.weixin.qq.com/s?__biz=MzIxODA3MjQ2Mg==&amp;mid=208766399&amp;idx=1&amp;sn=3b07cff0b35c4a32ce87cb4182d3a6a8&amp;scene=2&amp;srcid=1002WjEUw4eWdipJ7KQmRG59&amp;from=timeline&amp;isappinstalled=0#rd" target="_blank" rel="external">科研少帅：记一次我参加的特殊马拉松运动</a>**</li>
+<li><a href="http://qjzhixing.com/2015/10/02/" target="_blank" rel="external">起今知行：写作马拉松，部分内容分享</a></li>
+</ul>
+</li>
+</ol>
+</blockquote>
+<p>原文链接：<a href="http://weibo.com/p/1001603893512436321542" target="_blank" rel="external">这辈子没在一天内说过那么多话</a></p>
+<p><strong>作者：写作马拉松挑战者<a href="http://weibo.com/u/2929426873" target="_blank" rel="external">@笑娘</a></strong><br><img src="http://upload-images.jianshu.io/upload_images/5634-8072e5e66aa5c922.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="@笑娘 正在进行写作马拉松"></p>
+<h2 id="心路历程">心路历程</h2><p>今天总算是挑战了半程写作马拉松，如果不是有讯飞语音输入法我肯定完成不了，我打字速度很慢，就算真打字也会打得手抽筋吧。整个心路历程是这样的：</p>
+<ol>
+<li>自动忽略剑飞老师在朋友圈发起的挑战，觉得写作与自己无缘，更别提这还是要写几万字，我怎么可能完成嘛，完全是在虐自己。</li>
+<li>剑飞老师邀约，我完全不懂拒绝，对于这种可接受可不接受的事情，一般都会硬着头皮接受权当试试，大不了挑战失败也没什么可丢人的。</li>
+<li>进入50人的挑战群，感受到大家的斗志高昂，而且剑飞老师及一部分同仁还要挑战全马，陡生敬佩之情，也燃起了我的挑战神经，让我跃跃欲试。</li>
+<li>填写报名表，硬着头皮打勾我一定能挑战成功！也算是给了自己一个成功的暗示，虽然这时对一天写2万多字毫无概念，毕竟我平时没有刻意练习过，每天的写作量最多也就2500字了。<br>5.临近挑战前一天突然开窍，以我每天花1个小时写2000字来算，我要花10个小时才能完成半马啊。信心少了半截。觉得这是一项我不可能完成的任务。</li>
+<li>今天一大早群里传来各方捷报，他们都是可以在1小时内写4000多字5000字的神人，突然我觉得我也可以了。我因为早上有钟点工上门，以及习惯性拖延，迟迟没有进入状态，只写了个大纲，一直等到中午12点才开始正式进入写作状态。用讯飞语音输入法在半小时内完成2000多字，信心大增，有望在5小时内结束战斗。</li>
+<li>越写越觉得吃力，一小时语音，喉咙已沙哑，我算是非常小声了，大概从来没有说过这么多话，也可能发声部位不对，总之5小时内结束战斗的愿望眼见又要泡汤了。</li>
+<li>完全低估身心疲惫度，后面写的很慢，效率变低。有些主题时脑子一片空白需要花大量时间来理清思路，针对这种只能选择写一半先放弃。而对于自己有很多想法的主题，就能迅速铺展开来写。</li>
+<li>写到一半的时候，剑飞老师把所有今天参加挑战的人加进了完赛群，这又给我们戴了顶高帽子啊。本来还有放弃的念头，现在感觉不加紧完成会对不起他对我们的期望。</li>
+<li>本来以为几万字可以把前半生写完，写完发现几万字也就写完今天的想法，有太多细节值得深挖。每天脑海里闪现的想法，有很多都值得记录下来。与其胡思乱想，不如写出来，在写的过程中查漏补缺。</li>
+</ol>
+<h2 id="写作方式">写作方式</h2><p>这次写作马拉松半程，我全部是在手机备忘录里写的，14个主题14篇短文，有些主题写的少是因为写不下去了就放弃了，为了不耽误整个的进程。99%用的讯飞语音输入法，不过在水果手机上只能复制粘贴（安卓手机没有此类烦恼），耽误了一点时间，也会打断思路。最后用字数统计app，统计了字数21291。有效写作时间6个小时左右。</p>
+<h2 id="写作意义">写作意义</h2><p>在写的过程中也有质疑这种马拉松式写作的意义何在，如何防止所写文字都是口水话都是没营养的。后来我思考出来，我会这样想，是因为我写的还不够多，<strong>写作也需要训练，不是一蹴而就。没有量的积累，很难会有质的飞跃。</strong></p>
+<p>在输入输出方面，6比4的比例较适合我。写可以促进学，可以认清自己的不足，从而改善。讯飞语音输入法是一个很有用的工具，可以迅速把我们说的大段话变成文字保存下来，准确率90%以上。对它已产生一定的依赖，觉得打字慢，浪费时间。但是局限性就是会影响别人，同时受周遭影响。我目前只有2个选择，在家锁在房间里用，在大街边走边用。</p>
+<p>我喜欢用手机记录，一是因为可以随时随地记录，二是小小的屏幕可以让我更集中注意力，更专注于写的内容。</p>
+<h2 id="专注写作">专注写作</h2><p>挑战之前想了如何防止写作被干扰的各种方法，比如手机开飞行模式。最后我还是就如我平时用手机记录一样，全程下来我没有因为开网络而被社交软件打断的情况。</p>
+<p>手机的局限就是不能分屏，也不如Word能立马统计字数，不如键盘打字快，不如纸笔能迅速记录。所以这次我还是有借助纸笔来写大纲，以及记录闪现的新想法。</p>
+<p>（小注：统计字数的手机软件有桔子写作、语记、随笔记、轻笔记等。）</p>
+<h2 id="写作建议">写作建议</h2><p><strong>沉迷在思考与写作中，再加时间上一天内的限制，我有连自己都想不到的自制力。</strong>中间也有劳逸结合，每进行半小时都要喝水，每进行一小时会看看群里各位的进展，以及微博上的话题“写作马拉松”。我也有其他人说的那样，越是快临近完成字数，越是效率低，越是急切想马上完成，越是在不停看字数，反而注意力也不如之前集中了。</p>
+<p>最后想说，剑飞老师是一个很有号召力和领导力的组织者，从准备到完成整个流程走下来，他给了我们很多很好的建议和鼓励。跟他学到很多东西，关于如何组织如何激励等等。希望自己有一天也能成为成功的个人大数据践行者，目前自己还需要外力的督促。      </p>
+<p><strong>写于2015年10月1日晚</strong></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/5634-fa71aa7d86110d5b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="写作马拉松挑战者@笑娘"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<blockquote>
+<ol>
+<li><strong>活动介绍：</strong><ul>
+<li><a href="http://www.jianshu.com/p/c003c5d1c8ac" target="_blank" rel="external">《2015年国庆]]>
+    </summary>
+    
+      <category term="体验" scheme="http://marathonwriting.github.io/tags/%E4%BD%93%E9%AA%8C/"/>
+    
+      <category term="写作马拉松" scheme="http://marathonwriting.github.io/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+    
+      <category term="感受" scheme="http://marathonwriting.github.io/tags/%E6%84%9F%E5%8F%97/"/>
+    
+      <category term="收获" scheme="http://marathonwriting.github.io/tags/%E6%94%B6%E8%8E%B7/"/>
+    
+      <category term="写作马拉松体验" scheme="http://marathonwriting.github.io/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BD%93%E9%AA%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[【写作马拉松】少帅的科研路：记一次我参加的特殊马拉松运动]]></title>
+    <link href="http://marathonwriting.github.io/2015/10/04/0004/"/>
+    <id>http://marathonwriting.github.io/2015/10/04/0004/</id>
+    <published>2015-10-04T12:54:32.000Z</published>
+    <updated>2015-10-04T08:14:46.993Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<ol>
+<li><strong>活动介绍：</strong><ul>
+<li><a href="http://www.jianshu.com/p/c003c5d1c8ac" target="_blank" rel="external">《2015年国庆写作马拉松》</a></li>
+<li><a href="http://www.jianshu.com/p/ce23676a177c" target="_blank" rel="external">挑战2015年国庆写作马拉松</a></li>
+<li><a href="http://www.jianshu.com/p/f8fd5d1a9d80" target="_blank" rel="external">写作马拉松：写作指引</a></li>
+</ul>
+</li>
+<li><p><strong>活动播报</strong></p>
+<ul>
+<li><a href="http://www.jianshu.com/p/74c480e17a0e" target="_blank" rel="external">Day1：10人成功挑战写作马拉松，4人完成全程</a></li>
+<li><a href="http://www.jianshu.com/p/7803bebbbffa" target="_blank" rel="external">Day2：4人成功挑战写作马拉松</a></li>
+</ul>
+</li>
+<li><p><strong>感悟分享：</strong></p>
+<ul>
+<li><a href="http://www.jianshu.com/p/f88c983995b7" target="_blank" rel="external">笑娘：这辈子没在一天内说过那么多话</a></li>
+<li><a href="http://mp.weixin.qq.com/s?__biz=MzIxODA3MjQ2Mg==&amp;mid=208766399&amp;idx=1&amp;sn=3b07cff0b35c4a32ce87cb4182d3a6a8&amp;scene=2&amp;srcid=1002WjEUw4eWdipJ7KQmRG59&amp;from=timeline&amp;isappinstalled=0#rd" target="_blank" rel="external">科研少帅：记一次我参加的特殊马拉松运动</a>**</li>
+<li><a href="http://qjzhixing.com/2015/10/02/" target="_blank" rel="external">起今知行：写作马拉松，部分内容分享</a></li>
+</ul>
+</li>
+</ol>
+</blockquote>
+<p>原文链接：<strong><a href="http://mp.weixin.qq.com/s?__biz=MzIxODA3MjQ2Mg==&amp;mid=208766399&amp;idx=1&amp;sn=3b07cff0b35c4a32ce87cb4182d3a6a8&amp;scene=2&amp;srcid=1002WjEUw4eWdipJ7KQmRG59&amp;from=timeline&amp;isappinstalled=0#rd" target="_blank" rel="external">记一次我参加的特殊马拉松运动</a></strong></p>
+<p><strong>作者：@少帅</strong></p>
+<h2 id="赛事介绍">赛事介绍</h2><p>感谢【@剑飞在思考】组织这次活动，让我有机会能够强迫自己去挑战极限，探索一下自己语言组织能力到底有多强。</p>
+<p>我用番茄时钟法进行这些写作马拉松，整个写作过程中，一共用了15个番茄钟，总计6个多小时，字数接近23000字。</p>
+<h2 id="上午赛程">上午赛程</h2><p>上午八点多起床，来到办公室后，发现办公楼很安静，没有多少人，很高兴，因为长达两万字的连续书写会是一个高负荷的运动，如果全靠键盘，手估计都会抽筋，所以必须借助语音输入法。在使用语音输入法时最害怕的就是干扰到别人，更害怕的是引起别人的嘲笑。办公楼里没有人，那么我就可以随心所欲的进行头脑风暴疯狂写作了。</p>
+<p>早上的写作过程中我一直采用语音输入，看到自己口中的一句句话准确无误的出现到电脑屏幕上，拼凑为一篇文章的过程非常奇妙的，很有成就感。另外，通过语音输入法的连续使用，自己的逻辑思维能力和语言组织能力也会发生很大的提升，思维变得更加的活跃，语言的组织速度会更加的迅速，写作速度也愈发的超越自己的极限。</p>
+<h2 id="下午赛程">下午赛程</h2><p>下午的时候，办公室来了人，不好意思再用语音输入，开始键盘输入。在刚开始的过程中，键盘输入的效率特别的高，相较于语音输入，键盘输入给自己的思维留下了更充足的反应时间，思维会变的更加的活跃，容易产生更多丰富的想法。所以在这个过程中我的书写速度和书写量反倒比语音输入更高效。可是长时间的连续敲击键盘确实是一件很痛苦的事情，当键盘的连续输入超过5000字后，整个胳膊就开始出现抽筋现象，甚至都有麻木的感觉，很不舒服。在这种情况下，为了防止自己出现懈怠的情绪，不得不重新选择语音输入法。现在你正在阅读的这篇回忆录就是我在键盘输入的最后时间段写的，因为过度的劳累已经导致自己没有精力去进行新领域的思维组织与探索，只能够做一些简单的回顾了。好了，在这句话写完之后我就要重新置换为语音输入继续写作下去。</p>
+<p>我现在已经迷糊的忘记了时间，好像从早上起床之后到现在除了上了一次厕所之后，还没有出过办公室的门，除了喝水好像还没有吃过任何东西，我都开始佩服自己了。</p>
+<p>现在估计已经到了1万字，我现在正处于全屏写作状态，很想去看一下到底写了多少，是否有到一万字，或者给我一个惊喜，超过一万字。</p>
+<p>都是我比较感兴趣的内容，所以不累。虽然不累，可是当经历了多半天的连续写作之后，内心还是会出现一点点的疲倦，特别是当认为自己可能已完成1万字之后，看一下字数统，才发现并没有，落差很大，心里是最崩溃的。这个时候就需要给自己一点鼓励，要么小憩一会儿，要么出去和朋友聊聊天，但是一定要控制好休息的时间长短，否则再进入状态就比较难了。</p>
+<p>Ok,现在我又置换为语音输入了。语音输入最大的好处就在于快捷方便，任何姿势，任何位置都可以。能够彻底的放松身心，专心的投身于写作。好了先不总结了，我要回去继续写作，等到出现劳累的情况时再回来总结。现在是下午4:35，快要开始回去做晚餐了，在做晚餐之前一定要把第一板块给搞定。</p>
+<h2 id="晚上赛程">晚上赛程</h2><p>刚才回去做晚饭了, 馒头就炒菜, 有鸡蛋，竹笋，包菜，辣椒等，吃的现在肚子还挺胀的，不想马上就开始写作，先看一下队友的情况，在比赛的群里面发现有的人竟然只用了三四个小时就搞定了所有的任务，想到自己到现在还没有完成，心里很难受，有点失落。我姑且以我的文章深度比较高来安慰自己吧！</p>
+<p>其实到现在为止，我所总结的几个板块只完成了第一块，也就是说我还有很多内容可以去写。废话不多说了，继续加油吧！</p>
+<p>我发现，凡事只要经过长时间高强度的重复训练之后，再回过头去做类似相同的事物就容易得多了。想象一下，如果我能够完成这次挑战，那么在以后的写作过程中，自己的文字的撰写能力就会有巨大的提高。这种提高给自己带来的福利完全不能想象。</p>
+<p>今天的写作过程中我万万没有想到的是在我罗列的那么多块的内容中，仅仅第一块我就写了将近一万字，顿时感觉人的能力真的是太强大了，不挑战真的不知道自己原来还可以这么厉害。</p>
+<p>现在是晚上9:13，终于写满两万字。但是我所列的版块并没有写完，已经很累，不想草草了事，放在那里，下次再来一次冰与火的涤荡，将其补充完整即可。</p>
+<h2 id="赛事回忆">赛事回忆</h2><p>回忆一下自己在整个写作过程中的心路历程。第一个6000字，是最轻松、最纯粹的投入，完全没有考虑字数的累积。但当这6000字写完之后，发现时间已过很大一部分时，心里就开始出现慌张的现象，开始有点浮躁。经过调整休息之后才重新进入状态，不再以字数的多少为指标，而专心的去关注具体版块的内容总结。当字数达到12000字之后，后续的写作过程就非常的轻松。</p>
+<p>今天完成这次挑战，是我人生中的第一次，收获了很多。这次挑战是一次与心灵的对话、是对自己进行彻底的剖析、也是对最近一段时间所经历的各种复杂事情的一个梳理。这次挑战给自己今后的学习和生活，留下了一更清晰的蓝图。两万多字的书写过程中，产生了很多灵感，在接下来的时间中需要对其进行不断地深化和完善。</p>
+<p>最后感谢活动的组织者【@剑飞在思考】，现在我要做的事情是犒劳一下自己，拜拜！</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<blockquote>
+<ol>
+<li><strong>活动介绍：</strong><ul>
+<li><a href="http://www.jianshu.com/p/c003c5d1c8ac" target="_blank" rel="external">《2015年国庆]]>
+    </summary>
+    
+      <category term="体验" scheme="http://marathonwriting.github.io/tags/%E4%BD%93%E9%AA%8C/"/>
+    
+      <category term="写作马拉松" scheme="http://marathonwriting.github.io/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+    
+      <category term="感受" scheme="http://marathonwriting.github.io/tags/%E6%84%9F%E5%8F%97/"/>
+    
+      <category term="收获" scheme="http://marathonwriting.github.io/tags/%E6%94%B6%E8%8E%B7/"/>
+    
+      <category term="写作马拉松体验" scheme="http://marathonwriting.github.io/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BD%93%E9%AA%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[【2015年国庆写作马拉松】Day2：4人成功挑战写作马拉松]]></title>
+    <link href="http://marathonwriting.github.io/2015/10/03/0002/"/>
+    <id>http://marathonwriting.github.io/2015/10/03/0002/</id>
+    <published>2015-10-03T12:54:25.000Z</published>
+    <updated>2015-10-04T08:15:19.675Z</updated>
+    <content type="html"><![CDATA[<h2 id="@Andy祝嘉楠">@Andy祝嘉楠</h2><blockquote>
+<p>两小时8500字，语音4800字，普通键盘3700字，加油[奋斗]#写作马拉松#今天用5小时完成了剑飞发起的写作马拉松半程赛，一共完成21327字，按主题写作和意识流表达都有，别问我都写了啥，反正挺好玩的，也挺有用的，感谢组织者。<br>对了，还创造了2项个人记录，语音转文字时速5400字，键盘时速4500字，应该还没体会到极限。</p>
+</blockquote>
+<p><img src="http://upload-images.jianshu.io/upload_images/5634-96de8d4c7e16edf1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Paste_Image.png"></p>
+<h2 id="@麦风旋：">@麦风旋：</h2><blockquote>
+<p>两个40分钟7375，继续探索去，随着意识流，写到自己哭了，现在平复心情。三个40分钟11515。3小时58分，22575字，轻松完成，我下次挑战全程，看来一定积累是必须的，不过也有几个突破，全程速录机，想要语音发现没下载讯飞。</p>
+</blockquote>
+<p><img src="http://upload-images.jianshu.io/upload_images/5634-9dfdd67befc9f708.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Paste_Image.png"></p>
+<p>##@安少帅</p>
+<blockquote>
+<p>挑战一下自己，果然收获颇丰。写作是进行自娱自乐头脑风暴的最好形式。</p>
+</blockquote>
+<p>科研路少帅的总结：<strong><a href="http://mp.weixin.qq.com/s?__biz=MzIxODA3MjQ2Mg==&amp;mid=208766399&amp;idx=1&amp;sn=3b07cff0b35c4a32ce87cb4182d3a6a8&amp;scene=2&amp;srcid=1002WjEUw4eWdipJ7KQmRG59&amp;from=timeline&amp;isappinstalled=0#rd" target="_blank" rel="external">记一次我参加的特殊马拉松运动</a></strong><br><img src="http://upload-images.jianshu.io/upload_images/5634-3149acef01b222a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="安少帅的写作提纲"></p>
+<h2 id="@文紫静好：">@文紫静好：</h2><blockquote>
+<p>昨天参与来自@剑飞 的#写作马拉松#，花11小时24分钟完成42195字。最快1万字耗时2小时7分钟，最慢1万2居然花了4小时。在主题和随机中穿插进行，全程采用键盘敲打，想想也是醉了。昨天觉得太慢好慢，才发现最快有1小时5千字的速度，根据记录最快记录是95个。今天左手酸啊，所以有借口开心的看连续剧《未生》，人生第一部韩剧，来自行之师傅介绍，好看。</p>
+</blockquote>
+<p><img src="http://upload-images.jianshu.io/upload_images/5634-82db44cf4122c237.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Paste_Image.png"></p>
+<h2 id="@笨宝：">@笨宝：</h2><p>今天母校百年校庆，到老校区走了一遭，还是喜欢绿树红墙下的朗朗书声，所有的外壳剥掉后，剩下的便是教育的全部，在一个浮躁的时代里做一个静下心来吃喝玩乐的人应该是我所受教育里最好的留存！新校区很漂亮，却少了一种岁月沉淀下来的风霜印记，说过的理想，受过的磨难，收获的青春，都没有可供回忆的桌椅，甚至找不到自己小心翼翼走过的长廊，拼死拼活跑过的楼梯，还有校门口总是多给我加几颗花生的米皮摊子，和买过许多杂志可以刷脸的书店，是我们走得比岁月还要快吗？停下来，等等岁月，那些最为美好的岁月，渐渐沉淀做各色各样的我们，飞扬热烈，温婉动人，但愿，母校在下一个百年依然美好，但愿我们在下一个十年依然自我，<strong>为了庆祝这样的美好做一个疯狂的决定，在二十四小时内完成四万字的挑战，呃，总比跑个十万米强，好了，我们慢慢做准备，我的手和脑子，但愿还在！晚安！</strong></p>
+<h2 id="@起今知行：">@起今知行：</h2><blockquote>
+<p>以下是从昨天写作马拉松文字中摘录的部分内容，主要是自己成长过程中的一些经历、收获和感悟。分享出来，希望大家能从我的经历和收获中得到些许启发。<br>文章链接：<strong><a href="http://qjzhixing.com/2015/10/02/" target="_blank" rel="external">写作马拉松，部分内容分享</a></strong></p>
+</blockquote>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="@Andy祝嘉楠">@Andy祝嘉楠</h2><blockquote>
+<p>两小时8500字，语音4800字，普通键盘3700字，加油[奋斗]#写作马拉松#今天用5小时完成了剑飞发起的写作马拉松半程赛，一共完成21327字，按主题写作和意识流表达都有，别问我都写]]>
     </summary>
     
       <category term="写作马拉松" scheme="http://marathonwriting.github.io/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
     
-      <category term="写作马拉松" scheme="http://marathonwriting.github.io/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+      <category term="战果播报" scheme="http://marathonwriting.github.io/tags/%E6%88%98%E6%9E%9C%E6%92%AD%E6%8A%A5/"/>
+    
+      <category term="写作马拉松战报" scheme="http://marathonwriting.github.io/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%88%98%E6%8A%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[【2015年国庆写作马拉松】Day3：7人成功挑战写作马拉松]]></title>
+    <link href="http://marathonwriting.github.io/2015/10/02/0003/"/>
+    <id>http://marathonwriting.github.io/2015/10/02/0003/</id>
+    <published>2015-10-02T12:54:28.000Z</published>
+    <updated>2015-10-04T08:10:38.056Z</updated>
+    <content type="html"><![CDATA[<h1 id="1-_活动介绍：">1. <strong>活动介绍：</strong></h1><ul>
+<li><a href="http://www.jianshu.com/p/c003c5d1c8ac" target="_blank" rel="external">《2015年国庆写作马拉松》</a></li>
+<li><a href="http://www.jianshu.com/p/ce23676a177c" target="_blank" rel="external">挑战2015年国庆写作马拉松</a></li>
+<li><a href="http://www.jianshu.com/p/f8fd5d1a9d80" target="_blank" rel="external">写作马拉松：写作指引</a></li>
+</ul>
+<h1 id="2-_活动播报">2. <strong>活动播报</strong></h1><ul>
+<li><a href="http://www.jianshu.com/p/74c480e17a0e" target="_blank" rel="external">Day1：10人成功挑战写作马拉松</a></li>
+<li><a href="http://www.jianshu.com/p/7803bebbbffa" target="_blank" rel="external">Day2：4人成功挑战写作马拉松</a></li>
+<li><a href="http://www.jianshu.com/p/1093841a4b37" target="_blank" rel="external">Day3：7人成功挑战写作马拉松</a></li>
+</ul>
+<h1 id="3-_感悟分享：">3. <strong>感悟分享：</strong></h1><ul>
+<li><a href="http://www.jianshu.com/p/f88c983995b7" target="_blank" rel="external">笑娘：这辈子没在一天内说过那么多话</a></li>
+<li><a href="http://mp.weixin.qq.com/s?__biz=MzIxODA3MjQ2Mg==&amp;mid=208766399&amp;idx=1&amp;sn=3b07cff0b35c4a32ce87cb4182d3a6a8&amp;scene=2&amp;srcid=1002WjEUw4eWdipJ7KQmRG59&amp;from=timeline&amp;isappinstalled=0#rd" target="_blank" rel="external">科研少帅：记一次我参加的特殊马拉松运动</a></li>
+<li><a href="http://qjzhixing.com/2015/10/02/" target="_blank" rel="external">起今知行：写作马拉松，部分内容分享</a></li>
+<li><a href="http://www.jianshu.com/p/dc75bddb5202" target="_blank" rel="external">起今知行：写作马拉松的体验与收获</a></li>
+<li><a href="http://www.jianshu.com/p/0f8d4f137a59" target="_blank" rel="external">文紫静好：脚没跑，手写过</a></li>
+<li><a href="http://www.jianshu.com/p/1a4e4008a4e4" target="_blank" rel="external">Shelley童栎程：体验半马完成有感</a></li>
+<li><a href="http://www.jianshu.com/p/e3b12da02275" target="_blank" rel="external">婉若星辰：写作马拉松半程—21098字挑战的感想</a></li>
+<li><a href="http://www.jianshu.com/p/ba569882344e" target="_blank" rel="external">树丰：4小时15分，21265字——我的写作马拉松感受</a></li>
+</ul>
+<h1 id="4-_挑战记录：">4. <strong>挑战记录</strong>：</h1><ul>
+<li>@剑飞在思考：第一个用 讯飞输入法 完成全程写作马拉松。</li>
+<li>@文紫静好：第一个用 普通键盘完 成全程马拉松挑战。</li>
+<li>@麦风旋：第一个用 E迅速录机 完成半程写作马拉松，创造半程马拉松最好成绩。</li>
+<li>@To_欣：第一个用 机械键盘完 成全程写作马拉松。</li>
+<li>@海涛在职场：创造了当天最早（16:10）完成全程写作马拉松的记录。</li>
+</ul>
+<h1 id="5-挑战历程">5.挑战历程</h1><h3 id="@海涛在职场">@<a href="http://weibo.com/601856009" target="_blank" rel="external">海涛在职场 </a><a href="http://verified.weibo.com/verify" target="_blank" rel="external"></a></h3><blockquote>
+<ul>
+<li>09:52，写完了1.7万，我要休息早餐了。</li>
+<li>个人经验，别用ulysses，字数多了，容易死机。我是分开的，最后合到一起。</li>
+<li>16:11，搞定，考虑到标点，多写了3000字左右，一共44812个字。从四点半开始写到现在。（创造了当日最早时间(16：10)完成全程写作马拉松的纪录）</li>
+</ul>
+</blockquote>
+<p><img src="http://upload-images.jianshu.io/upload_images/5634-bbb90c521c53ac45.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="@海涛在职场 成功挑战全程马拉松"></p>
+<h3 id="@Shelley童栎程">@<a href="http://www.weibo.com/shelleytong" target="_blank" rel="external">Shelley童栎程</a></h3><blockquote>
+<ul>
+<li>09:50，刚写了五千字了，休息一会。</li>
+<li>11:50，我在虚构个故事。</li>
+<li>12:00，休息了，刚码完一万字。</li>
+<li>我写晨间笔记526天啦，放宽心，如果反思就顺着写，写下去就行啦，坚持一下下会打开新的天地，我之前也有过，后来就好了.我当时是顺着写下去，慢慢会进入一个非常专注的状态，是内心的声音，我就只负责记录。很神奇。</li>
+<li>17：14，我快到两万了，还好报的半马。</li>
+</ul>
+</blockquote>
+<p>@<a href="http://www.weibo.com/shelleytong?from=feed&amp;loc=nickname" target="_blank" rel="external">Shelley童栎程</a> 总结分享链接：：<a href="http://weibo.com/p/230418b1c881b80102vsnf" target="_blank" rel="external">体验【写作马拉松】半马完成有感</a></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/5634-79419c006ce1cdf7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="完成写作马拉松"></p>
+<h3 id="@祁婷婷">@祁婷婷</h3><blockquote>
+<ul>
+<li>我也在写，一个半小时写了4392字，太慢了。</li>
+<li>成功啦花了7h38min，没准备零食真的要备足粮食，饿死我了。</li>
+</ul>
+</blockquote>
+<h3 id="@彭勇">@彭勇</h3><blockquote>
+<ul>
+<li>07:50，早晨5K排酸跑完，开始挑战。</li>
+<li>我写得很慢，很辛苦，上午5个小时，写了6905，下午2个小时，写了3836。</li>
+<li>上午写 滴水湖24小时接力跑全记录，下午写 童年，成长回忆，一共 10741，中午吃饭半小时，休息10分钟后继续。</li>
+<li>22:20，各位都是快手啊，我写到现在 20525，歇一会，换个场地。</li>
+</ul>
+</blockquote>
+<h3 id="@唐妈">@<a href="http://www.jianshu.com/users/1a4a21cf4d10" target="_blank" rel="external">唐妈</a></h3><blockquote>
+<ul>
+<li>一个小时只写了2600，太慢了[流泪]</li>
+<li>我写的毫无逻辑和故事性<a href="http://www.weibo.com/hujianfei1989" target="_blank" rel="external">@剑飞在思考</a></li>
+<li>我写的毫无条理，感觉这样的文字没有价值，就是流水账，是我的方法不对吗？我几乎都写成一篇自白书了。</li>
+<li>17:13，还差两万字。</li>
+</ul>
+</blockquote>
+<p><img src="http://upload-images.jianshu.io/upload_images/5634-197c526a73419af1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="人的潜力真是无限"></p>
+<h3 id="@ZLY_林阳">@<a href="http://weibo.com/u/3200714654?from=feed&amp;loc=nickname" target="_blank" rel="external">ZLY_林阳</a></h3><blockquote>
+<ul>
+<li>从9:30开始写，第一个小时写了3800，用讯飞的。</li>
+<li>第二个小时写了3100字。</li>
+<li>第三个小时，4200个字。</li>
+<li>手打的好慢，语录快多了。</li>
+<li>一共花了7个小时，21364字。</li>
+</ul>
+</blockquote>
+<h3 id="@皇与后">@<a href="http://weibo.com/u/2249189441" target="_blank" rel="external">皇与后</a></h3><blockquote>
+<ul>
+<li>我写完了，17：51～22：06</li>
+<li><strong>我是下午回来想写就写了，没按建议上来。</strong></li>
+<li>语音输入板做的，句子有些没逻辑。但是思路有点混沌，可能前后会重复。</li>
+<li>第一次，感觉都倒空了，但是也有了新思路。活动很好，以后会继续参与。</li>
+</ul>
+</blockquote>
+<p><img src="http://upload-images.jianshu.io/upload_images/5634-656140832c055933.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="挑战成功"></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/5634-16c84b9c3b5eb01a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="想写就写"></p>
+<h3 id="@i大狗熊">@<a href="http://www.weibo.com/bearbig" target="_blank" rel="external">i大狗熊</a></h3><ul>
+<li>建好了预计计划啦，给自己留足时间，估计花12小时吧，其他朋友加油。</li>
+</ul>
+<p><img src="http://upload-images.jianshu.io/upload_images/5634-a738cd46acbe6b91.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="安排挑战计划"></p>
+<h2 id="问答：">问答：</h2><blockquote>
+<p>提问：中间停顿的时间算不算？</p>
+</blockquote>
+<p>答：中间停下来什么都不做的时间不算。但手在键盘上停留的时间段，或者坐在电脑前思考的时间要算进去。</p>
+<blockquote>
+<p>提问：我写的毫无条理，感觉这样的文字没有价值，就是流水账，是我的方法不对吗？</p>
+</blockquote>
+<p>答案①：没事的，写的时候尽量不去评价和怀疑自己写的东西。因为有可能感觉不那么好的，有可能是日后非常好的写作素材。不要紧，尽管去写。写完之后总会发掘出一些有价值的东西的。不担忧也不评价，类似头脑风暴那种规则</p>
+<p>答案②：想到什么写什么，不要回头看，写出自己不知道的东西，那才是意外的收获。所以还可以放开一点。这些“知道”是因为之前没注意，写着写着就出来了。　顺其自然，写成自白书非常好，而且是几万字的自白书。</p>
+<blockquote>
+<p><strong>规则补充</strong>：请大家尽量保持安静，给挑战的人一个创作环境。不相关的就不说啦，对挑战者的鼓励不拒绝。绝对支持正在挑战的亲，你们是最重要的人，关于挑战中遇到的问题和心得都可以及时分享交流。</p>
+<p><strong>播报故事</strong>：我在写<strong><a href="http://www.jianshu.com/p/7803bebbbffa" target="_blank" rel="external">Day2：4人成功挑战写作马拉松</a></strong>的时候，在煮早餐，把锅都给烧干了，心疼锅，为什么呢？因为<a href="http://www.jianshu.com/p/ca3a44cf8816" target="_blank" rel="external">锅也有很大的学问</a>。所以今天写播报的时候，我乖乖地吃了早餐再写。</p>
+</blockquote>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="1-_活动介绍：">1. <strong>活动介绍：</strong></h1><ul>
+<li><a href="http://www.jianshu.com/p/c003c5d1c8ac" target="_blank" rel="external">《201]]>
+    </summary>
+    
+      <category term="写作马拉松" scheme="http://marathonwriting.github.io/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+    
+      <category term="战果播报" scheme="http://marathonwriting.github.io/tags/%E6%88%98%E6%9E%9C%E6%92%AD%E6%8A%A5/"/>
+    
+      <category term="写作马拉松战报" scheme="http://marathonwriting.github.io/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%88%98%E6%8A%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[【2015年国庆写作马拉松】Day1：10人成功挑战写作马拉松，4人完成全程]]></title>
+    <link href="http://marathonwriting.github.io/2015/10/02/0001/"/>
+    <id>http://marathonwriting.github.io/2015/10/02/0001/</id>
+    <published>2015-10-02T12:54:23.000Z</published>
+    <updated>2015-10-04T08:08:22.110Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<ol>
+<li><strong>活动介绍：</strong><ul>
+<li><a href="http://www.jianshu.com/p/c003c5d1c8ac" target="_blank" rel="external">《2015年国庆写作马拉松》</a></li>
+<li><a href="http://www.jianshu.com/p/ce23676a177c" target="_blank" rel="external">挑战2015年国庆写作马拉松</a></li>
+<li><a href="http://www.jianshu.com/p/f8fd5d1a9d80" target="_blank" rel="external">写作马拉松：写作指引</a></li>
+</ul>
+</li>
+<li><p><strong>活动播报</strong></p>
+<ul>
+<li><a href="http://www.jianshu.com/p/74c480e17a0e" target="_blank" rel="external">Day1：10人成功挑战写作马拉松，4人完成全程</a></li>
+<li><a href="http://www.jianshu.com/p/7803bebbbffa" target="_blank" rel="external">Day2：4人成功挑战写作马拉松</a></li>
+</ul>
+</li>
+<li><p><strong>感悟分享：</strong></p>
+<ul>
+<li><a href="http://www.jianshu.com/p/f88c983995b7" target="_blank" rel="external">笑娘：这辈子没在一天内说过那么多话</a></li>
+<li><a href="http://mp.weixin.qq.com/s?__biz=MzIxODA3MjQ2Mg==&amp;mid=208766399&amp;idx=1&amp;sn=3b07cff0b35c4a32ce87cb4182d3a6a8&amp;scene=2&amp;srcid=1002WjEUw4eWdipJ7KQmRG59&amp;from=timeline&amp;isappinstalled=0#rd" target="_blank" rel="external">科研少帅：记一次我参加的特殊马拉松运动</a>**</li>
+<li><a href="http://qjzhixing.com/2015/10/02/" target="_blank" rel="external">起今知行：写作马拉松，部分内容分享</a></li>
+</ul>
+</li>
+</ol>
+</blockquote>
+<p>【<a href="http://huati.weibo.com/k/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE?from=501" target="_blank" rel="external">#写作马拉松#</a>播报】2015年10月1日，共10人完成写作马拉松。其中，<a href="http://weibo.com/n/%E5%89%91%E9%A3%9E%E5%9C%A8%E6%80%9D%E8%80%83?from=feed&amp;loc=at" target="_blank" rel="external">@剑飞在思考</a> <a href="http://weibo.com/n/%E8%B5%B7%E4%BB%8A%E7%9F%A5%E8%A1%8C?from=feed&amp;loc=at" target="_blank" rel="external">@起今知行</a> <a href="http://weibo.com/n/%E5%8F%91%E6%84%A4%E7%9A%84%E8%8D%89%E8%8E%93?from=feed&amp;loc=at" target="_blank" rel="external">@发愤的草莓</a> <a href="http://weibo.com/n/%E6%96%87%E7%B4%AB%E9%9D%99%E5%A5%BD?from=feed&amp;loc=at" target="_blank" rel="external">@文紫静好</a> 4人成功完成全程写作马拉松，即一天内完成42195字，<a href="http://weibo.com/n/%E4%B8%89%E5%A7%BF%E6%85%A7?from=feed&amp;loc=at" target="_blank" rel="external">@三姿慧</a> <a href="http://weibo.com/n/GTD%E5%BF%8D%E8%80%85?from=feed&amp;loc=at" target="_blank" rel="external">@GTD忍者</a> <a href="http://weibo.com/n/%E6%A0%91%E4%B8%B0?from=feed&amp;loc=at" target="_blank" rel="external">@树丰</a> <a href="http://weibo.com/n/%E7%AC%91%E5%A8%98%E6%89%8D%E4%B8%8D%E8%A6%81%E5%BD%93%E9%BB%84%E8%84%B8%E5%A9%86?from=feed&amp;loc=at" target="_blank" rel="external">@笑娘</a> <a href="http://weibo.com/n/%E6%8B%87%E6%8C%87%E5%B7%A8%E4%BA%BA?from=feed&amp;loc=at" target="_blank" rel="external">@拇指巨人</a> <a href="http://weibo.com/n/%E8%BF%9B%E5%8C%96%E4%B8%AD%E7%9A%84%E5%A4%AA%E9%98%B3?from=feed&amp;loc=at" target="_blank" rel="external">@血太阳</a> 6人成功完成半程的写作马拉松，即一天内完成21098字。</p>
+<p>###@三姿慧：</p>
+<blockquote>
+<ul>
+<li>第一个40分钟写了3273字，休息5分钟。</li>
+<li>第二个40分钟，写了3422字，累积6695字。休息5分钟，还在提纲第一主题写童年的故事。</li>
+<li>第三个40分钟写了3455字，总计10150。</li>
+<li>第4个40分钟，写了3422字，累积13572字。三个以后做了一个大休才勉强保住速度。</li>
+<li>第四个写起来比之前吃力了一点。第五个40分钟，写了3667字，累计17239字。</li>
+<li>第五个40分钟，写了3667字，累计17239字。提纲一共是列了20个，今天的半程估计会写完两个，以前从来没有这样梳理过自己的生命，这样的感觉也很好，剩下的18个会分开来写。@剑飞在思考 再次感谢剑飞，这个实在太好玩啦，希望以后还会有你出的主题写作。</li>
+<li>第六段时间，55分钟写了3911字，总字数21150。完成本次写作马拉松半程得挑战。</li>
+</ul>
+</blockquote>
+<p><img src="http://upload-images.jianshu.io/upload_images/5634-dd11094ee0175b40.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="意义非凡的生日纪念"></p>
+<h3 id="@起今知行_：">@起今知行 ：</h3><blockquote>
+<p>写作马拉松全程挑战完成！原计划是完成半程马拉松就够了，但写上瘾了，各种突破……全程耗时：10h22m11s，纯文字数：43871字。结合语音写作和键盘写作，语音写作累积耗时4h50m44s，纯文字数30319字；普通键盘累积耗时5h31m27s，纯文字数13552字。其中，语音写作突破时间和文字记录，单次耗时2h16m12s写下14088字。剑飞，明年再来。</p>
+</blockquote>
+<p><img src="http://upload-images.jianshu.io/upload_images/5634-5b819d97bd3a646e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="半程写爽了，挑战全程"></p>
+<p>###@树丰：</p>
+<blockquote>
+<p>我也挑战成功啦。用时04:15，21265字。我还继续有灵感，所以决定继续写，写到不想写的时候为止，我之前也列了几个提纲，但基本上没用上。在按照第一个提纲写时，灵感和思路就开始不断发散，所以最后我就基本上按照剑飞所说的心流写作模式了。</p>
+</blockquote>
+<p><img src="http://upload-images.jianshu.io/upload_images/5634-c02b6575599643f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="写作中体验到心流"></p>
+<p>###@shagua1011 ：</p>
+<blockquote>
+<p>嗨，我今天9点开始挑战，断断续续 写了两个45分钟，码了7K不到的字，两块小主题 ，后面被打断了，可能相比较来说根本算不上什么，但对于第一次一口气写这么多字的我算是个小突破吧，希望这个假期内还能找出时间挑战下。</p>
+</blockquote>
+<p>###@Sahra han ：</p>
+<blockquote>
+<p>我今天坐火车，谁知道写了不到一个小时就晕车了，不过初步感受了一下，很有感觉，我再找一天坚决完成半马。</p>
+</blockquote>
+<p>###@文紫静好：</p>
+<blockquote>
+<p>最后一万字写得更慢更慢了，原本预估22:30可以完成，可还剩下4千，继续埋头奋斗。今天至少有3次想放弃。</p>
+</blockquote>
+<p><img src="http://upload-images.jianshu.io/upload_images/5634-3134f31e54a2362d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="挑战进行中"></p>
+<blockquote>
+<p>终于完成了，最后的1万2，居然写了4个小时，太龟速了。全程耗时11:24，上午浪费很多时间，晚上写的很慢，全程键盘，我也是醉了。</p>
+</blockquote>
+<p><img src="http://upload-images.jianshu.io/upload_images/5634-902ef2139183b88c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="成功完成全程写作马拉松"></p>
+<p>###@笑娘：</p>
+<blockquote>
+<p>我全部是在手机备忘录里写的，14个主题14篇短文，有些主题写的少是因为写不下去了就放弃了，为了不耽误整个的进程。99%用的讯飞语音输入法，不过在水果手机上只能复制，耽误了一点时间，也会打断思路。最后用字数统计app，统计了字数21291。有效写作时间6个小时左右。</p>
+</blockquote>
+<h3 id="@发愤的草莓：">@发愤的草莓：</h3><blockquote>
+<p>我是花了十个半小时。清晨一个半，上午中午晚上各3个小时。</p>
+</blockquote>
+<p><img src="http://upload-images.jianshu.io/upload_images/5634-4333116d786fec8e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="成功完成全程写作马拉松"></p>
+<h2 id="结尾">结尾</h2><blockquote>
+<ul>
+<li><strong>想参加的请加我微信：531931673，备注“国庆期间挑战写作马拉松”。</strong></li>
+</ul>
+<ul>
+<li>如果不能在2015年国庆假期内参与，请2016年再关注。</li>
+<li>发微博添加 <strong>#写作马拉松#</strong> ，可以进入活动播报。</li>
+<li>挑战不需要公布全部内容，分享自己写的精彩镜头或感受，不低于1500字。</li>
+<li>不要围观，要“写”，报名参加请至少安排一天，进行挑战。</li>
+</ul>
+</blockquote>
+]]></content>
+    <summary type="html">
+    <![CDATA[<blockquote>
+<ol>
+<li><strong>活动介绍：</strong><ul>
+<li><a href="http://www.jianshu.com/p/c003c5d1c8ac" target="_blank" rel="external">《2015年国庆]]>
+    </summary>
+    
+      <category term="写作马拉松" scheme="http://marathonwriting.github.io/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+    
+      <category term="战果播报" scheme="http://marathonwriting.github.io/tags/%E6%88%98%E6%9E%9C%E6%92%AD%E6%8A%A5/"/>
+    
+      <category term="写作马拉松战报" scheme="http://marathonwriting.github.io/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%88%98%E6%8A%A5/"/>
     
   </entry>
   
