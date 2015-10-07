@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[写作马拉松]]></title>
   
-  <link href="/atom.xml" rel="self"/>
-  <link href="http://marathonwriting.com/"/>
+  <link href="/hexo-theme-icarus/atom.xml" rel="self"/>
+  <link href="http://marathonwriting.com/hexo-theme-icarus/"/>
   <updated>2015-10-07T03:30:17.000Z</updated>
-  <id>http://marathonwriting.com/</id>
+  <id>http://marathonwriting.com/hexo-theme-icarus/</id>
   
   <author>
     <name><![CDATA[剑飞在思考|起今知行]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[【2015年国庆写作马拉松】Day6：8人成功挑战写作马拉松]]></title>
-    <link href="http://marathonwriting.com/2015/10/07/0010/"/>
-    <id>http://marathonwriting.com/2015/10/07/0010/</id>
+    <link href="http://marathonwriting.com/hexo-theme-icarus/2015/10/07/0010/"/>
+    <id>http://marathonwriting.com/hexo-theme-icarus/2015/10/07/0010/</id>
     <published>2015-10-07T03:14:49.000Z</published>
     <updated>2015-10-07T03:30:17.000Z</updated>
     <content type="html"><![CDATA[<h1 id="@一团春">@一团春</h1><ul>
@@ -143,18 +143,18 @@
     
     </summary>
     
-      <category term="写作马拉松" scheme="http://marathonwriting.com/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+      <category term="写作马拉松" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
     
-      <category term="战果播报" scheme="http://marathonwriting.com/tags/%E6%88%98%E6%9E%9C%E6%92%AD%E6%8A%A5/"/>
+      <category term="战果播报" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E6%88%98%E6%9E%9C%E6%92%AD%E6%8A%A5/"/>
     
-      <category term="写作马拉松战报" scheme="http://marathonwriting.com/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%88%98%E6%8A%A5/"/>
+      <category term="写作马拉松战报" scheme="http://marathonwriting.com/hexo-theme-icarus/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%88%98%E6%8A%A5/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[2015年国庆写作马拉松】Day5：10人成功挑战写作马拉松]]></title>
-    <link href="http://marathonwriting.com/2015/10/06/0009/"/>
-    <id>http://marathonwriting.com/2015/10/06/0009/</id>
+    <link href="http://marathonwriting.com/hexo-theme-icarus/2015/10/06/0009/"/>
+    <id>http://marathonwriting.com/hexo-theme-icarus/2015/10/06/0009/</id>
     <published>2015-10-06T02:24:30.000Z</published>
     <updated>2015-10-06T02:51:12.999Z</updated>
     <content type="html"><![CDATA[<h1 id="@喻圣根">@喻圣根</h1><ul>
@@ -295,20 +295,20 @@
     
     </summary>
     
-      <category term="体验" scheme="http://marathonwriting.com/tags/%E4%BD%93%E9%AA%8C/"/>
+      <category term="体验" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E4%BD%93%E9%AA%8C/"/>
     
-      <category term="写作马拉松" scheme="http://marathonwriting.com/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+      <category term="写作马拉松" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
     
-      <category term="战果播报" scheme="http://marathonwriting.com/tags/%E6%88%98%E6%9E%9C%E6%92%AD%E6%8A%A5/"/>
+      <category term="战果播报" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E6%88%98%E6%9E%9C%E6%92%AD%E6%8A%A5/"/>
     
-      <category term="写作马拉松战报" scheme="http://marathonwriting.com/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%88%98%E6%8A%A5/"/>
+      <category term="写作马拉松战报" scheme="http://marathonwriting.com/hexo-theme-icarus/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%88%98%E6%8A%A5/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[【2015年国庆写作马拉松】Day4：11人成功挑战写作马拉松]]></title>
-    <link href="http://marathonwriting.com/2015/10/05/0008/"/>
-    <id>http://marathonwriting.com/2015/10/05/0008/</id>
+    <link href="http://marathonwriting.com/hexo-theme-icarus/2015/10/05/0008/"/>
+    <id>http://marathonwriting.com/hexo-theme-icarus/2015/10/05/0008/</id>
     <published>2015-10-05T03:32:28.000Z</published>
     <updated>2015-10-05T13:09:17.097Z</updated>
     <content type="html"><![CDATA[<h1 id="1-_活动介绍：">1. <strong>活动介绍：</strong></h1><ul>
@@ -453,18 +453,18 @@
     
     </summary>
     
-      <category term="写作马拉松" scheme="http://marathonwriting.com/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+      <category term="写作马拉松" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
     
-      <category term="战果播报" scheme="http://marathonwriting.com/tags/%E6%88%98%E6%9E%9C%E6%92%AD%E6%8A%A5/"/>
+      <category term="战果播报" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E6%88%98%E6%9E%9C%E6%92%AD%E6%8A%A5/"/>
     
-      <category term="写作马拉松战报" scheme="http://marathonwriting.com/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%88%98%E6%8A%A5/"/>
+      <category term="写作马拉松战报" scheme="http://marathonwriting.com/hexo-theme-icarus/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%88%98%E6%8A%A5/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[【写作马拉松】起今知行：体验与收获]]></title>
-    <link href="http://marathonwriting.com/2015/10/04/0007/"/>
-    <id>http://marathonwriting.com/2015/10/04/0007/</id>
+    <link href="http://marathonwriting.com/hexo-theme-icarus/2015/10/04/0007/"/>
+    <id>http://marathonwriting.com/hexo-theme-icarus/2015/10/04/0007/</id>
     <published>2015-10-04T12:54:52.000Z</published>
     <updated>2015-10-05T10:33:27.681Z</updated>
     <content type="html"><![CDATA[<p>本文系10月1日写作马拉松后的总结，通过语音写作的方式表达出来。关于写作马拉松的数据可以看这里：<a href="http://weibo.com/p/10080830a994ef783d6ac37bd2713be67611f7?k=%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE&amp;from=501&amp;_from_=huati_topic" target="_blank" rel="external">#写作马拉松#</a></p>
@@ -485,22 +485,22 @@
     
     </summary>
     
-      <category term="体验" scheme="http://marathonwriting.com/tags/%E4%BD%93%E9%AA%8C/"/>
+      <category term="体验" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E4%BD%93%E9%AA%8C/"/>
     
-      <category term="写作马拉松" scheme="http://marathonwriting.com/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+      <category term="写作马拉松" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
     
-      <category term="感受" scheme="http://marathonwriting.com/tags/%E6%84%9F%E5%8F%97/"/>
+      <category term="感受" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E6%84%9F%E5%8F%97/"/>
     
-      <category term="收获" scheme="http://marathonwriting.com/tags/%E6%94%B6%E8%8E%B7/"/>
+      <category term="收获" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E6%94%B6%E8%8E%B7/"/>
     
-      <category term="写作马拉松体验" scheme="http://marathonwriting.com/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BD%93%E9%AA%8C/"/>
+      <category term="写作马拉松体验" scheme="http://marathonwriting.com/hexo-theme-icarus/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BD%93%E9%AA%8C/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[【写作马拉松】文紫：脚没跑，手写过]]></title>
-    <link href="http://marathonwriting.com/2015/10/04/0006/"/>
-    <id>http://marathonwriting.com/2015/10/04/0006/</id>
+    <link href="http://marathonwriting.com/hexo-theme-icarus/2015/10/04/0006/"/>
+    <id>http://marathonwriting.com/hexo-theme-icarus/2015/10/04/0006/</id>
     <published>2015-10-04T12:54:42.000Z</published>
     <updated>2015-10-04T09:09:59.004Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -577,22 +577,22 @@
     
     </summary>
     
-      <category term="体验" scheme="http://marathonwriting.com/tags/%E4%BD%93%E9%AA%8C/"/>
+      <category term="体验" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E4%BD%93%E9%AA%8C/"/>
     
-      <category term="写作马拉松" scheme="http://marathonwriting.com/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+      <category term="写作马拉松" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
     
-      <category term="感受" scheme="http://marathonwriting.com/tags/%E6%84%9F%E5%8F%97/"/>
+      <category term="感受" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E6%84%9F%E5%8F%97/"/>
     
-      <category term="收获" scheme="http://marathonwriting.com/tags/%E6%94%B6%E8%8E%B7/"/>
+      <category term="收获" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E6%94%B6%E8%8E%B7/"/>
     
-      <category term="写作马拉松体验" scheme="http://marathonwriting.com/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BD%93%E9%AA%8C/"/>
+      <category term="写作马拉松体验" scheme="http://marathonwriting.com/hexo-theme-icarus/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BD%93%E9%AA%8C/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[【写作马拉松】笑娘：这辈子没在一天内说过那么多话]]></title>
-    <link href="http://marathonwriting.com/2015/10/04/0005/"/>
-    <id>http://marathonwriting.com/2015/10/04/0005/</id>
+    <link href="http://marathonwriting.com/hexo-theme-icarus/2015/10/04/0005/"/>
+    <id>http://marathonwriting.com/hexo-theme-icarus/2015/10/04/0005/</id>
     <published>2015-10-04T12:54:36.000Z</published>
     <updated>2015-10-04T09:09:34.414Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -667,22 +667,22 @@
     
     </summary>
     
-      <category term="体验" scheme="http://marathonwriting.com/tags/%E4%BD%93%E9%AA%8C/"/>
+      <category term="体验" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E4%BD%93%E9%AA%8C/"/>
     
-      <category term="写作马拉松" scheme="http://marathonwriting.com/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+      <category term="写作马拉松" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
     
-      <category term="感受" scheme="http://marathonwriting.com/tags/%E6%84%9F%E5%8F%97/"/>
+      <category term="感受" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E6%84%9F%E5%8F%97/"/>
     
-      <category term="收获" scheme="http://marathonwriting.com/tags/%E6%94%B6%E8%8E%B7/"/>
+      <category term="收获" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E6%94%B6%E8%8E%B7/"/>
     
-      <category term="写作马拉松体验" scheme="http://marathonwriting.com/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BD%93%E9%AA%8C/"/>
+      <category term="写作马拉松体验" scheme="http://marathonwriting.com/hexo-theme-icarus/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BD%93%E9%AA%8C/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[【写作马拉松】少帅的科研路：记一次我参加的特殊马拉松运动]]></title>
-    <link href="http://marathonwriting.com/2015/10/04/0004/"/>
-    <id>http://marathonwriting.com/2015/10/04/0004/</id>
+    <link href="http://marathonwriting.com/hexo-theme-icarus/2015/10/04/0004/"/>
+    <id>http://marathonwriting.com/hexo-theme-icarus/2015/10/04/0004/</id>
     <published>2015-10-04T12:54:32.000Z</published>
     <updated>2015-10-04T09:07:47.853Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -751,22 +751,22 @@
     
     </summary>
     
-      <category term="体验" scheme="http://marathonwriting.com/tags/%E4%BD%93%E9%AA%8C/"/>
+      <category term="体验" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E4%BD%93%E9%AA%8C/"/>
     
-      <category term="写作马拉松" scheme="http://marathonwriting.com/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+      <category term="写作马拉松" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
     
-      <category term="感受" scheme="http://marathonwriting.com/tags/%E6%84%9F%E5%8F%97/"/>
+      <category term="感受" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E6%84%9F%E5%8F%97/"/>
     
-      <category term="收获" scheme="http://marathonwriting.com/tags/%E6%94%B6%E8%8E%B7/"/>
+      <category term="收获" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E6%94%B6%E8%8E%B7/"/>
     
-      <category term="写作马拉松体验" scheme="http://marathonwriting.com/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BD%93%E9%AA%8C/"/>
+      <category term="写作马拉松体验" scheme="http://marathonwriting.com/hexo-theme-icarus/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BD%93%E9%AA%8C/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[【2015年国庆写作马拉松】Day3：7人成功挑战写作马拉松]]></title>
-    <link href="http://marathonwriting.com/2015/10/04/0003/"/>
-    <id>http://marathonwriting.com/2015/10/04/0003/</id>
+    <link href="http://marathonwriting.com/hexo-theme-icarus/2015/10/04/0003/"/>
+    <id>http://marathonwriting.com/hexo-theme-icarus/2015/10/04/0003/</id>
     <published>2015-10-04T02:54:28.000Z</published>
     <updated>2015-10-05T13:08:39.398Z</updated>
     <content type="html"><![CDATA[<h1 id="1-_活动介绍：">1. <strong>活动介绍：</strong></h1><ul>
@@ -879,18 +879,18 @@
     
     </summary>
     
-      <category term="写作马拉松" scheme="http://marathonwriting.com/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+      <category term="写作马拉松" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
     
-      <category term="战果播报" scheme="http://marathonwriting.com/tags/%E6%88%98%E6%9E%9C%E6%92%AD%E6%8A%A5/"/>
+      <category term="战果播报" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E6%88%98%E6%9E%9C%E6%92%AD%E6%8A%A5/"/>
     
-      <category term="写作马拉松战报" scheme="http://marathonwriting.com/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%88%98%E6%8A%A5/"/>
+      <category term="写作马拉松战报" scheme="http://marathonwriting.com/hexo-theme-icarus/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%88%98%E6%8A%A5/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[【2015年国庆写作马拉松】Day2：4人成功挑战写作马拉松]]></title>
-    <link href="http://marathonwriting.com/2015/10/03/0002/"/>
-    <id>http://marathonwriting.com/2015/10/03/0002/</id>
+    <link href="http://marathonwriting.com/hexo-theme-icarus/2015/10/03/0002/"/>
+    <id>http://marathonwriting.com/hexo-theme-icarus/2015/10/03/0002/</id>
     <published>2015-10-03T12:54:25.000Z</published>
     <updated>2015-10-04T09:01:42.287Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -980,18 +980,18 @@
     
     </summary>
     
-      <category term="写作马拉松" scheme="http://marathonwriting.com/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+      <category term="写作马拉松" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
     
-      <category term="战果播报" scheme="http://marathonwriting.com/tags/%E6%88%98%E6%9E%9C%E6%92%AD%E6%8A%A5/"/>
+      <category term="战果播报" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E6%88%98%E6%9E%9C%E6%92%AD%E6%8A%A5/"/>
     
-      <category term="写作马拉松战报" scheme="http://marathonwriting.com/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%88%98%E6%8A%A5/"/>
+      <category term="写作马拉松战报" scheme="http://marathonwriting.com/hexo-theme-icarus/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%88%98%E6%8A%A5/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[【2015年国庆写作马拉松】Day1：10人成功挑战写作马拉松，4人完成全程]]></title>
-    <link href="http://marathonwriting.com/2015/10/02/0001/"/>
-    <id>http://marathonwriting.com/2015/10/02/0001/</id>
+    <link href="http://marathonwriting.com/hexo-theme-icarus/2015/10/02/0001/"/>
+    <id>http://marathonwriting.com/hexo-theme-icarus/2015/10/02/0001/</id>
     <published>2015-10-02T12:54:23.000Z</published>
     <updated>2015-10-05T10:28:12.263Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -1072,11 +1072,11 @@
     
     </summary>
     
-      <category term="写作马拉松" scheme="http://marathonwriting.com/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+      <category term="写作马拉松" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
     
-      <category term="战果播报" scheme="http://marathonwriting.com/tags/%E6%88%98%E6%9E%9C%E6%92%AD%E6%8A%A5/"/>
+      <category term="战果播报" scheme="http://marathonwriting.com/hexo-theme-icarus/tags/%E6%88%98%E6%9E%9C%E6%92%AD%E6%8A%A5/"/>
     
-      <category term="写作马拉松战报" scheme="http://marathonwriting.com/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%88%98%E6%8A%A5/"/>
+      <category term="写作马拉松战报" scheme="http://marathonwriting.com/hexo-theme-icarus/categories/%E5%86%99%E4%BD%9C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%88%98%E6%8A%A5/"/>
     
   </entry>
   
